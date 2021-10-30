@@ -1,20 +1,13 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gledsonmatheus&count_private=true)
-](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonmatheus)](https://github.com/anuraghazra/github-readme-stats)
+## Bem vindo(a), eu sou o Gledson matheus.
+
+<div>
+  <a href="https://github.com/gledsonmatheus">
+    <img heigth ="180em" src="https://github-readme-stats.vercel.app/api?username=gledsonmatheus&show_icons=true&theme=darcula&count_private=true">
+    <img heigth ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonmatheus&theme=darcula&count_private=true">
+    
+</div>
 
 
-<!--
-**gledsonmatheus/GledsonMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
