@@ -1,4 +1,4 @@
-## Bem vindo(a), eu sou o Gledson matheus.
+## Bem vindo(a), eu sou o G. Matheus.
 
 <div>
   <a href="https://github.com/gledsonmatheus">
